@@ -5,7 +5,7 @@
 
 # https://console.cloud.google.com/
 
-# pip install pydrive
+# pip install pydrive2
 
 import mimetypes
 from pydrive2.auth import GoogleAuth
